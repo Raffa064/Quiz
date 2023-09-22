@@ -17,6 +17,8 @@ fetch('./questions.txt').then(res => res.text()).then(data => {
             answers
         })
     }
+    
+    console.log('Loaded: '+questions.length)
 
     for (let i = 0; i < 10; i++) {
         const j = Math.floor(Math.random() * questions.length)

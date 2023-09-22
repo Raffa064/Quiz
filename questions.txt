@@ -91,8 +91,8 @@ Can you help me?
 Qual palavra significa "Porque"?
 What
 Where
-While
-!Who
+Who
+!Why
 
 Qual palavra se refere a uma matéria escolar?
 !Physic
@@ -135,3 +135,105 @@ Pizza, Eat, Apple
 Go, Drink, Work
 Clothe, Hear, Say
 !House, Flower, Water
+
+Qual a tradução de "School"?
+!Escola
+Escapar
+Estrada
+Esqueiro
+
+Qual dastas palavras é um verbo auxiliar?
+!Do
+Go
+To
+Nenhuma das alternativas 
+
+Qual a cor de uma maçã?
+!red
+yellow
+blue
+purple
+
+Qual instrumento musical têm as teclas pretas e brancas?
+Trumpet
+Violin
+Guitar
+!Piano
+
+Qual é o maior oceano do mundo?
+Atlantic Ocean
+Indian Ocean
+Arctic Ocean
+!Pacific Ocean
+
+Qual é a capital da França?
+London
+Berlin
+!Paris
+Madrid
+
+Qual é o planeta conhecido como o "Planeta Vermelho"?
+Venus
+Jupiter
+!Mars
+Saturn
+
+Qual é o maior mamífero do mundo?
+Giraffe
+Elephant
+!Blue whale
+Cheetah
+
+Qual a moeda dos Estados Unidos?
+Pesos
+Real
+Euro
+!Dolar
+
+Qual o plural de wife?
+Wifes
+Wifies
+!Wives
+Wive
+
+Qual o plural de wolf?
+!Wolves
+Wolfies
+Woffes
+Wolve
+
+Quem canta a música "Thriller"?
+!Michael Jackson
+Angelica
+Rihanna
+Leo Lins
+
+Como se fala New York em português?
+Nova York
+!Nova Iorque
+Nova Yourk
+New Iorque
+
+Qual a frase correta?
+!I don't like pear
+Do I not like pear
+I dosen't not like pear
+I like not pear
+
+Qual time ganhou a copa de 2022?
+!Argentina
+Brazil
+France
+Croatia
+
+Que hora são seven o'clock?
+1 hora
+3 horas
+!7 horas
+4 horas
+
+Qual a tradução de "You're welcome"?
+Seja bem vindo 
+!De nada
+Desculpe
+Bem vindo
